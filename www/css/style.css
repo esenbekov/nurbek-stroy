@@ -697,22 +697,9 @@ table img {
     max-width: 1180px;
     margin: 0 auto;
     min-height: 60px;
-    background-color: #dc5b3e;
-    -webkit-border-radius : 4px;
-    -moz-border-radius : 4px;
-    -ms-border-radius : 4px;
-    -o-border-radius : 4px;
     border-radius : 4px;
-    -moz-box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.1);
-    -webkit-box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.1);
     box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.1);
-    background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0%, #da563b), color-stop(100%, #de6041));
-    background-image: -o-linear-gradient(bottom, #da563b 0%, #de6041 100%);
-    background-image: -moz-linear-gradient(bottom, #da563b 0%, #de6041 100%);
-    background-image: -webkit-linear-gradient(bottom, #da563b 0%, #de6041 100%);
-    background-image: -ms-linear-gradient(bottom, #da563b 0%, #de6041 100%);
-    background-image: linear-gradient(to top, #da563b 0%, #de6041 100%);
-    -pie-background: linear-gradient(to top, #da563b 0%, #de6041 100%); }
+    background-image: linear-gradient(to top, #702b79 0%, rgb(47, 137, 165) 100%);}
   .top-navigation-wrap .top-navigation-in.opened {
     -webkit-border-radius : 4px 4px 4px 0;
     -moz-border-radius : 4px 4px 4px 0;
@@ -1190,10 +1177,6 @@ table img {
   margin-bottom: 20px;
   background-color: #fff;
   border: 2px solid #4e395d;
-  -webkit-border-radius : 4px;
-  -moz-border-radius : 4px;
-  -ms-border-radius : 4px;
-  -o-border-radius : 4px;
   border-radius : 4px; }
 
 .left-categor-title {
@@ -1206,17 +1189,8 @@ table img {
   font-family: Tahoma, Verdana, Segoe, sans-serif;
   color: #fff;
   cursor: pointer;
-  background-color: #4e395d;
-  -moz-box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.1);
-  -webkit-box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.1);
   box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.1);
-  background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0%, #463354), color-stop(100%, #563f66));
-  background-image: -o-linear-gradient(bottom, #463354 0%, #563f66 100%);
-  background-image: -moz-linear-gradient(bottom, #463354 0%, #563f66 100%);
-  background-image: -webkit-linear-gradient(bottom, #463354 0%, #563f66 100%);
-  background-image: -ms-linear-gradient(bottom, #463354 0%, #563f66 100%);
-  background-image: linear-gradient(to top, #463354 0%, #563f66 100%);
-  -pie-background: linear-gradient(to top, #463354 0%, #563f66 100%); }
+  background-image: linear-gradient(to top, #e03131 0%, #76a571 70%);}
   .left-categor-title .s1 {
     position: absolute;
     display: inline-block;
