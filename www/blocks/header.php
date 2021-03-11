@@ -2,8 +2,8 @@
     <div class="top-panel-wr">
         <div class="top-panel clear-self">
             <div class="regid-block">
-                <a href="/user/login" class="reg-enter">Вход</a>
-                <a href="/user/register" class="reg-link">Регистрация</a>
+                <a href="/www/user/login.php" class="reg-enter">Вход</a>
+                <a href="/www/user/register.php" class="reg-link">Регистрация</a>
             </div>
             <div id="shop2-cart-preview">
                 <div class="shop-block cart-preview ">
@@ -22,10 +22,10 @@
     <div class="header-bot-block clear-self">
         <div class="site-name-wr">
             <div class="logo">
-                <a href="#"><img src="img/logo.png" alt="НУРБЕК-СТРОЙ"></a>
+                <!-- <a href="#"><img src="img/logo.png" alt="НУРБЕК-СТРОЙ"></a> -->
             </div>
             <div class="site-name-in" style="width: 400px;">
-                <div class="site-name"><a href="#">НУРБЕК-СТРОЙ</a></div>
+                <div class="site-name"><a href="/www/index.php">НУРБЕК-СТРОЙ</a></div>
                 <div class="site-description">Магазин строительных материалов</div>
             </div>
         </div>
@@ -49,7 +49,7 @@
                 <a href="#" class="top-panel-navigation-button"></a>
                 <div class="top-menu-scroller">
                     <ul class="top-menu">
-                        <li><a href="/">Главная</a></li>
+                        <li><a href="/www/index.php">Главная</a></li>
                         <li><a href="#">О компании</a></li>
                         <li><a href="#">Новости</a></li>
                         <li><a href="/nash-adres">Наш адрес</a></li>
